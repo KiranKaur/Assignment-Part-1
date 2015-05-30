@@ -7,6 +7,9 @@
     background: -ms-linear-gradient(top,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* IE10+ */
     background: linear-gradient(to bottom,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+    background-image:url("../Assests/images/texture1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
 
 }
 
@@ -31,7 +34,7 @@
     padding: 40px 60px;
     background-color: white;
     border: 1px solid rgba(0,0,0,0.3);
-    color: rgb(52, 52, 52);
+    color: red;
     text-shadow: 0 2px 2px rgba(0,0,0,0.1);
     border-radius: 5px;
     font-family: "Open Sans", Arial, sans-serif;
@@ -68,4 +71,92 @@ div.menu {
     border-top: 2px solid black;
     padding-top: 25px;
     text-align: center;
+}
+.Firstslide{
+    background-image:url("../Assests/images/centerhall.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Secondslide{
+ background-image:url("../Assests/images/groundfloor1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Thirdslide{
+     background-image:url("../Assests/images/topfloor.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.Fourthslide{
+     background-image:url("../Assests/images/hall.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.Fifthslide{
+     background-image:url("../Assests/images/luxriousroom.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Sixthslide {
+    background-image: url("../Assests/images/store room.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Sixthslidepart1{
+     background-image:url("../Assests/images/runningaway.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Sixthslidepart2{
+     background-image:url("../Assests/images/goahead.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.Seventhslide{
+     background-image:url("../Assests/images/glowingtreasurebox.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Eigthslide{
+     background-image:url("../Assests/images/treasurebox1.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Ninthslide{
+    background-image:url("../Assests/images/kitchen.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Tenthslide{
+     background-image:url("../Assests/images/brokenstairs.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Eleventhslide{
+     background-image:url("../Assests/images/cupboard1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Twelvethslide{
+     background-image:url("../Assests/images/windowfell.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Thirteenthslide{
+     background-image:url("../Assests/images/handmirror.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Fourteenthslide{
+     background-image:url("../Assests/images/knife.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.Fifteenthslide{
+     background-image:url("../Assests/images/smalldoor.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
 }
